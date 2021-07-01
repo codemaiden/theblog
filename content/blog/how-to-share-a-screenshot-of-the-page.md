@@ -3,7 +3,7 @@ title: Getting started with simple DIY
 date: 2021-07-01T11:13:39.467Z
 subtitle: This is a test. Our first post will be about gathering materials and
   how to avoid spending too much cash when building your first projects.
-cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
+cover: /assets/girl.png
 tags: diy
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet nisl purus in. Nunc sed augue lacus viverra vitae congue eu. At augue eget arcu dictum varius. Et ligula ullamcorper malesuada proin. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Mauris in aliquam sem fringilla ut morbi tincidunt. In vitae turpis massa sed elementum tempus egestas. Neque gravida in fermentum et sollicitudin ac orci phasellus. Nibh praesent tristique magna sit amet purus gravida. Nibh sed pulvinar proin gravida hendrerit. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. A iaculis at erat pellentesque adipiscing commodo elit at. At varius vel pharetra vel turpis nunc eget lorem. Ultrices in iaculis nunc sed augue. Senectus et netus et malesuada fames ac turpis egestas.
